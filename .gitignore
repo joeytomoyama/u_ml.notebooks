@@ -1,1 +1,3 @@
 data
+project/*.txt
+chat-export.json
